@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "117458452285",
+    "project_id": "dakshin-test",
+    "storage_bucket": "dakshin-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117458452285:android:fe58db6c492392cf2f4f54",
+        "android_client_info": {
+          "package_name": "com.example.project_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117458452285-jrj5e5psd3dbko9h9bnr32ar4hqn4ct6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPwSfMsiMDdhg4o6hmRFmnI6xpvXjl4qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117458452285-jrj5e5psd3dbko9h9bnr32ar4hqn4ct6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "117458452285-dvpq5b4u4jkun36kj9vdjq0h5hj742s6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
